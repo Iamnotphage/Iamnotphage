@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Masterhead]]()]()
 
 <h1 align="center">Hi 👋, I'm ChenClay</h1>
 <h3 align="center">A Cyberpunk, also a console cowboy.</h3>
 
-<p align="center"><img src=""></p>
+
 
 - 🌱 I’m currently learning **Computer Science**
 
