@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm ChenClay</h1>
 <h3 align="center">A Cyberpunk, also a console cowboy.</h3>
 
-<img align="right" alt="Hacking" width="300" src="https://github.com/Iamnotphage/Iamnotphage/blob/main/imgs/lucy.jpg">
+<img align="right" alt="Hacking" width="320" src="https://github.com/Iamnotphage/Iamnotphage/blob/main/imgs/lucy.jpg">
 
 - 🔭 I’m currently working on **Final Fucking Exam**
 
