@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]()]()
 <h1 align="center">Hi 👋, I'm ChenClay</h1>
 <h3 align="center">A Cyberpunk, also a console cowboy.</h3>
 
