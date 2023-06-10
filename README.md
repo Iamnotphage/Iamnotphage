@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://github.com/Iamnotphage/Iamnotphage/blob/main/imgs/2077.jpg)]()
+[![MasterHead](https://github.com/Iamnotphage/Iamnotphage/blob/main/imgs/2077.png)]()
 
 <h1 align="center">Hi 👋, I'm ChenClay</h1>
 <h3 align="center">A Cyberpunk, also a console cowboy.</h3>
