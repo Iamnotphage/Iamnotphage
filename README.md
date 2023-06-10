@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead]()]()
+[![MasterHead]()](imgs/2077.jpg)
 <h1 align="center">Hi 👋, I'm ChenClay</h1>
 <h3 align="center">A Cyberpunk, also a console cowboy.</h3>
 
