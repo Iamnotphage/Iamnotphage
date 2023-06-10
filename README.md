@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 👨‍💻 All of my projects are available at [right now](right now)
+- 👨‍💻 All of my projects are available at **HERE**
 
-- 📝 I regularly write articles on [here](here)
+- 📝 I regularly write articles on **HERE**
 
-- 💬 Ask me about **programming, math**
+- 💬 Ask me about **Programming & Math**
 
 - 📫 How to reach me **iamnotphage@gmail.com**
 
