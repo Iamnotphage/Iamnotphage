@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="Hacking" width="320" src="https://github.com/Iamnotphage/Iamnotphage/blob/main/imgs/lucy.jpg">
 
-- 🔭 I’m currently working on **MIT6.S081/6.828 and algs4**
+- 🔭 I’m currently working on **MIT-missing-semester**
 
 - 🌱 I’m currently learning **Computer Science**
 
