@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at **HERE**
 
-- 📝 I regularly write articles on **HERE**
+- 📝 I regularly write articles on **[HERE](https://iamnotphage.github.io)**
 
 - 💬 Ask me about **Programming & Math**
 
