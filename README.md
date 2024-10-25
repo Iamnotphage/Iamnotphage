@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--
 [![MasterHead](https://github.com/Iamnotphage/Iamnotphage/blob/main/imgs/2077.png)]()
 -->
-<h1 align="center">Hi 👋, I'm ChenClay</h1>
+<h1 align="center">Hi 👋, Welcome Here</h1>
 <h3 align="center">A Cyberpunk, also a console cowboy.</h3>
 
 <img align="right" alt="Hacking" width="320" src="https://github.com/Iamnotphage/Iamnotphage/blob/main/imgs/lucy.jpg">
@@ -46,5 +46,3 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Iamnotphage&theme=github-compact&hide_border=true&area=true" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamnotphage&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
