@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="Hacking" width="320" src="https://github.com/Iamnotphage/Iamnotphage/blob/main/imgs/lucy.jpg">
 
-- 🔭 I’m currently working on **CS:APP**
+- 🔭 I’m currently working on **CS:APP** & **CS231n**
 
 - 🌱 I’m currently learning **Computer Science**
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Programming & Math**
 
-- 📫 How to reach me **iamnotphage@gmail.com**
+- 📫 How to reach me **iamnotphage@gmail.com** or **iamnotphage@163.com**
 
 - ⚡ Fun fact **I can solve a cube in 12s**
 
